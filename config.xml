@@ -1,13 +1,23 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.webcalendar" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>webcalendar</name>
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "nl.iedereenEHBO.instructeursnapp"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Calendar APP</name>
+
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        App toont kalender.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+
+    <author href="https://www.dutchlearning.com" email="rik.dekyvere@dutchlearning.com">
+        Rik Dekyvere
     </author>
-    <content src="index.html" />
-    <access origin="*" />
-    <gap:plugin name="nl.x-services.plugins.calendar" version="4.2.8" />
+        
+         <!-- Define app splash screen for each platform. -->
+    
+<gap:plugin name="nl.x-services.plugins.calendar" version="4.2.8" />
 </widget>
