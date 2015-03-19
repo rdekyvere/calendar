@@ -17,7 +17,8 @@
         Rik Dekyvere
     </author>
         
-        <plugin name="WebIntent" value="com.borismus.webintent.WebIntent" />
+        
+        <gap:plugin name="com.borismus.webintent"  />
         
          <!-- Define app splash screen for each platform. -->
   
