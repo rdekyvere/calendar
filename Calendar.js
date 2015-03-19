@@ -32,7 +32,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="5F61D612:5853:178A4A4:550AAC22" name="octolytics-dimension-request_id" /><meta content="4621818" name="octolytics-actor-id" /><meta content="roundcone" name="octolytics-actor-login" /><meta content="613b37966388f4af95bdbb7c0fa10d963f62a5a070245cded2c43a785f1fa06c" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="5F61D612:5848:27D090:550AC2FE" name="octolytics-dimension-request_id" /><meta content="4621818" name="octolytics-actor-id" /><meta content="roundcone" name="octolytics-actor-login" /><meta content="613b37966388f4af95bdbb7c0fa10d963f62a5a070245cded2c43a785f1fa06c" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -41,7 +41,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="CHI/5YUxzf4TuRAJ/YMR1lsclpmTddwgxJ/s55zwR+++sT6zmcEyBk1he9+GLaaIlw5z1ROCHh3oQ8knG+cwsw==" name="csrf-token" />
+<meta content="BdOOHkEb0Z/N4e6fNp8tLnENBbHLvOtJXlkO430lp9oZUOr5Emp3eghe/D/5pQuomASnxAEjJQ+dxSzvMCo9Uw==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-16be8cd38303fe08e97be008fdaf61e467df50fe6cb00f69dbdfeb7ea6fc6858.css" media="all" rel="stylesheet" />
     <link href="https://assets-cdn.github.com/assets/github2-8172548eea663736d3534861fd25ae79eba631ed4fdc40331b8c8e0506261182.css" media="all" rel="stylesheet" />
@@ -160,7 +160,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vGHHZwwiKCGx40B6DcHTfWhkXW3o/wOXOfjafId2vR3O8x/VOaJbX9+8Uq0rAciDT/4YZ/NvdzO0qjwOhcTKDg==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="EVGkCaL7w8hRSy5+aHsPriMprRlNmhX6WNRlURBh7i0Ov9oY1e3Z8Ym7ZSkqLgWQJmizYT8BVSfTTfHF8ICb9A==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -189,7 +189,7 @@
 <ul class="pagehead-actions">
 
   <li>
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mPSxik15O0ehaPvjouFT4J0kvNLGa3yBZj5x57ucTihpKUSokZE0vajgD16NJEBAw5zGO88mOQ5VjIVa+y4W2w==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="12828203" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Rbzn8VtzrWrWJe4xZeNMNIERWwc50Bk+u1iDn8UBFB2nse0u6iUfD2/qVu+JURsL7V1w/iDYx6atgKLj6bzGgQ==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="12828203" />
 
       <div class="select-menu js-menu-container js-select-menu">
         <a href="/EddyVerbruggen/Calendar-PhoneGap-Plugin/subscription"
@@ -264,7 +264,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Fc6XxerTczgXf54pgU+7hrGMLzywHTiNDqUdfIS0upaUkJ9Wwj+BSl+K2B8LPBXxHx5XrBhLryjF/vw+fAMzWg==" /></div>
+    <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="IqLYTYTjCQwfjE1nbsBzn+Te3ants0q9AyNONNDxJxq+dv1jKtZp3fgYt30jEOoLRmtD68RpIgoPLTv0H1jR4A==" /></div>
       <button
         class="minibutton with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar EddyVerbruggen/Calendar-PhoneGap-Plugin"
@@ -276,7 +276,7 @@
           164
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZcDNTFDIY4+eu0broYKoJIIp+v0moGXCAxPf0RjBDnO+IhuZT7+MPR6Gbu6vuKlEQrZuAO6Sx0K7vnkyXl357w==" /></div>
+    <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FnkumM75QlAtHz4H5slMGjHAM5ZpjGS+kaOBZKDUd1bfsj+Y3pm61vRZ0SzDZJsPsRMzUbIy13j80tU/0qHNHw==" /></div>
       <button
         class="minibutton with-count js-toggler-target"
         aria-label="Star this repository" title="Star EddyVerbruggen/Calendar-PhoneGap-Plugin"
@@ -292,7 +292,7 @@
   </li>
 
         <li>
-          <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Dt81cp+NaQGz95GYjNy31e7L/373ht5XyWpy0ZAPJz5gA8GBqqyXO7RIm7HEWq8aSBTjEmx9a/wUwrdQCzPdPw==" /></div>
+          <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jmAjai7/ERUxQBLk7dfg+1ds+fa78o6SC4jCx/FRQEyzJ9JCHcVAVbEqzsWi+OTd972WvxkGW6BZVga/W5E4Dg==" /></div>
             <button
                 type="submit"
                 class="minibutton with-count"
@@ -635,12 +635,12 @@
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-            <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/edit/master/www/Calendar.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sYj+Rvup0t65ZnFuqzPppPfykOsLm4s5NDjUBzIyEu7LolTKidNopIANvnMRrKzjXy2Tmu9+y3sA2VEV4WYCWw==" /></div>
+            <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/edit/master/www/Calendar.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0D1qOIqQRJ6vbreCP+ETYldbXJ4eRzudmo9P2FxPp2Si2675RQhyfiDxlxMLjAtDp4APdKcetrXnXn/f01Musg==" /></div>
               <button class="octicon-button tooltipped tooltipped-n" type="submit" aria-label="Clicking this button will fork this project so you can edit the file" data-hotkey="e" data-disable-with>
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/delete/master/www/Calendar.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ANOSUBacodZw6ghwXxv/dC5atXNLPXRYWhJUUjxSsFkPLdOBdIKKmKQDbINp0+botGztoKka0kKMYGM/BBfljw==" /></div>
+          <form accept-charset="UTF-8" action="/EddyVerbruggen/Calendar-PhoneGap-Plugin/delete/master/www/Calendar.js" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DjuoAnvtkLu5ak2mUGiJzIkIAPPniNtzGaP//g5OuZeHayQlLisysOdzyaGWmEepwq+Bv/6KqyC96rewiexdnQ==" /></div>
             <button class="octicon-button danger tooltipped tooltipped-n" type="submit" aria-label="Fork this project and delete file" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
@@ -1588,7 +1588,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.05330s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.06177s from github-fe117-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

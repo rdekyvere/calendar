@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "nl.iedereenEHBO.calendar"
+        id          = "nl.iedereenEHBO.instructeursnapp"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Calendar</name>
+    <name>Kalender</name>
 
     <description>
-        App met kalender functies.
+        App met kalender functies
     </description>
 
     <author href="https://www.dutchlearning.com" email="rik.dekyvere@dutchlearning.com">
         Rik Dekyvere
     </author>
         
-         <!-- Define app splash screen for each platform. -->
-        
-        <!-- for Android -->
-            <feature name="Calendar">
-              <param name="android-package" value="nl.xservices.plugins.Calendar" />
-            </feature>
-        
         <gap:plugin name="nl.x-services.plugins.calendar" />
-   
+        
+         <!-- Define app splash screen for each platform. -->
+  
+
 </widget>
