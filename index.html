@@ -7,45 +7,21 @@
     
 
 <link rel="stylesheet" href="jquery/jquery.mobile-1.4.5.min.css" />
-<script src="jquery/jquery-1.11.1.min.js"></script>
-<script src="jquery/jquery.mobile-1.4.5.min.js"></script>
-<script>
-    function openCalendar(){
-                Sharing.AddEvent = function (callback_success, callback_fail, subj, loc, desc, strt, end, cal_id) {
-        console.log('Sharing:AddEvent(Android)'); 
-        var extras = {}; 
-        extras["title"] = subj; 
-        extras["location"] = loc; 
-        extras["description"] = desc; 
-        extras["beginTime"] = strt; 
-        extras["endTime"] = end; 
-        window.plugins.WebIntent.startActivity({ 
-        action: WebIntent.ACTION_EDIT, 
-        type: "vnd.android.cursor.item/event", 
-        extras: extras 
-        }, 
-        function() {callback_success }, 
-        function(e) { 
-        callback_fail(e); 
-        } 
-        ); 
+
+<script type="text/javascript" charset="utf-8">
+    function rik(){
+     console.log("derf derf");
+        window.plugins.webintent.startActivity({
+    action: window.plugins.webintent.ACTION_VIEW,
+    url: 'geo:0,0?q=coolsingel+52+rotterdam'},
+    function() {},
+    function() {alert('Failed to open URL via Android Intent')}
+);
     }
 </script>
     </head>
 <body>
-<div data-role="page" class="jqm-demos" data-quicklinks="true">
-
-
-	<div role="main" class="ui-content jqm-content jqm-fullwidth">
-
-		<h1>Kalender</h1>
-        <button onClick="javascript:openCalendar();">open calendar</button>
-       
-        
-
-	</div><!-- /content -->
-
-</div><!-- /page -->
+<button onclick="rik();">klik hier</button>
     
 </body>
 </html>
