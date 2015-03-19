@@ -17,7 +17,7 @@
         Rik Dekyvere
     </author>
         
-        <gap:plugin name="nl.x-services.plugins.calendar" />
+        <plugin name="WebIntent" value="com.borismus.webintent.WebIntent" />
         
          <!-- Define app splash screen for each platform. -->
   
